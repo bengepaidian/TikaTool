@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TikaTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TikaTool_jar</output-path>
+    <root id="archive" name="TikaTool.jar">
+      <element id="module-output" name="TikaTool" />
+      <element id="extracted-dir" path="C:/Jar/google-diff-match-patch.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Jar/dom4j-1.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
